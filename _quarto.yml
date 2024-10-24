@@ -6,7 +6,7 @@ project:
 website:
   title: "My website"
   description: "I am a scientist"
-  site-url: https://adrianatr.github.io/
+  site-url: https://adrianatovar.github.io/adrianatr/
   repo-url: https://github.com/adrianatovar/adrianatr.git
   # favicon: logo.png
   twitter-card: true
