@@ -1,12 +1,12 @@
 ---
-title: "Finley Malloc"
+title: "Adriana Tovar-Rodriguez"
 about:
   template: trestles
-  image: avatar.jpg
+  image: "fotoyo.jpeg"
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
+      href: "odris2017@gmail.com"
     - icon: mastodon
       href: https://joinmastodon.org
     - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
@@ -14,12 +14,12 @@ about:
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
       href: https://x.com
     - icon: github
-      href: https://github.com
+      href: https://github.com/adrianatovar
     - icon: linkedin
-      href: https://linkedin.com/
+      href: https://linkedin.com/adrianatovar2022/
     - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
-    - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
+    #   href: https://scholar.google.com
+    # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
       href: https://orcid.org/
     # - icon: twitter
     #   text: twitter
@@ -28,19 +28,20 @@ about:
     #   text: Github
     #   href: https://github.com
 ---
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+descrpition whatever
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Universidad Autónoma de Bacelona , Barcelona
+Master en Ecologia Terrestre  | Sept 2021 - Julio 2022
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Universidad Politécnica de Madrid, Madrid, España
+Grado en Ingeniería del Medio Natural | Sept 2016 - Julio 2020
+
+
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+CREAF | Técnica especialista | Diciembre  2022 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+MCNC | Titulada Superior | Sept 2020 - Agosto 2021
