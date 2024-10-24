@@ -6,45 +6,45 @@
       version="2.0">
 <channel>
 <title>My website</title>
-<link>https://adrianatr.github.io/Blog.html</link>
-<atom:link href="https://adrianatr.github.io/Blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://adrianatovar.github.io/adrianatr/Blog.html</link>
+<atom:link href="https://adrianatovar.github.io/adrianatr/Blog.xml" rel="self" type="application/rss+xml"/>
 <description>I am a scientist</description>
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Mon, 21 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The value of contemplative ecology</title>
   <dc:creator>John Doe</dc:creator>
-  <link>https://adrianatr.github.io/posts/another-post.html</link>
+  <link>https://adrianatovar.github.io/adrianatr/posts/another-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://adrianatr.github.io/projects/contemplation.jpg" class="img-fluid"></p>
+<p><img src="https://adrianatovar.github.io/adrianatr/projects/contemplation.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>contemplative</category>
-  <guid>https://adrianatr.github.io/posts/another-post.html</guid>
+  <guid>https://adrianatovar.github.io/adrianatr/posts/another-post.html</guid>
   <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>The value of computational ecology</title>
   <dc:creator>John Doe</dc:creator>
-  <link>https://adrianatr.github.io/posts/new-post.html</link>
+  <link>https://adrianatovar.github.io/adrianatr/posts/new-post.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><img src="https://adrianatr.github.io/projects/code.jpg" class="img-fluid"></p>
+<p><img src="https://adrianatovar.github.io/adrianatr/projects/code.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>computational</category>
-  <guid>https://adrianatr.github.io/posts/new-post.html</guid>
+  <guid>https://adrianatovar.github.io/adrianatr/posts/new-post.html</guid>
   <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
